@@ -33,7 +33,7 @@ To be annouced.
 
 ## Organizers
 
-- Jácome Cunha, jacome@fe.up.pt, http://fe.up.pt/~jacome
-- Filipe Correia, filipe.correia@fe.up.pt, http://filipecorreia.eu
+- [Jácome Cunha](http://fe.up.pt/~jacome), Faculty of Engineering, University of Porto, Portugal
+- [Filipe Correia](http://filipecorreia.eu), Faculty of Engineering, University of Porto, Portugal
 
 Please contact us if you have any questions or suggestions.
